@@ -1,0 +1,11 @@
+{
+  "name": "avl",
+  "version": "1.0.0",
+  "main": "avl.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node avl.js",
+  }
+}
